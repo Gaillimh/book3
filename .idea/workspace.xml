@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e70cd0d4-dae6-42f0-85d4-6c665aff9313" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1uLJYqE7tEFkiR85YXsFMTqbadJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp6_tushu/tp6_tushu" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e70cd0d4-dae6-42f0-85d4-6c665aff9313" name="Default Changelist" comment="" />
+      <created>1624438985639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624438985639</updated>
+      <workItem from="1624438986846" duration="335000" />
+      <workItem from="1624439447677" duration="13000" />
+      <workItem from="1624440668798" duration="1264000" />
+      <workItem from="1624442399083" duration="623000" />
+      <workItem from="1624443475465" duration="772000" />
+      <workItem from="1624588829757" duration="29000" />
+      <workItem from="1624783906036" duration="83000" />
+      <workItem from="1625122356901" duration="100000" />
+      <workItem from="1625195957640" duration="10000" />
+      <workItem from="1625195983194" duration="148000" />
+      <workItem from="1625236866095" duration="22000" />
+      <workItem from="1625237788869" duration="71000" />
+      <workItem from="1625239983769" duration="45000" />
+      <workItem from="1625240065819" duration="41000" />
+      <workItem from="1625241680692" duration="34000" />
+      <workItem from="1625248493712" duration="113000" />
+      <workItem from="1625251200817" duration="252000" />
+      <workItem from="1625323714882" duration="117000" />
+      <workItem from="1625323880983" duration="89000" />
+      <workItem from="1625324016852" duration="363000" />
+      <workItem from="1625324861746" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="0" key="#PHP" timestamp="1624439018096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="0" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1624439018096" />
+    <state x="723" y="170" key="FileChooserDialogImpl" timestamp="1625323769851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="723" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625323769851" />
+    <state x="635" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1625324033592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1625324033592" />
+  </component>
+</project>
